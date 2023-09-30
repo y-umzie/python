@@ -1,1 +1,7 @@
+#to print 
 print ("Hello World")
+
+#to find the number of elements in a string
+txt = "NumeroTres"
+len_string = len(txt) #calculate the number of char
+print (len_string)
