@@ -5,3 +5,8 @@ print ("Hello World")
 txt = "NumeroTres"
 len_string = len(txt) #calculate the number of char
 print (len_string)
+
+#to print selected characters from a string
+word = "Programming"
+print(word[2])
+print(word[1])
