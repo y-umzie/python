@@ -14,3 +14,6 @@ print(word[1])
 word = "Ocygen"
 word_new = word.replace('c', 'x')
 print(word_new)
+
+var = "String"
+print(var[0:3])
