@@ -17,3 +17,4 @@ print(word_new)
 
 var = "String"
 print(var[0:3])
+
