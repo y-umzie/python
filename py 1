@@ -18,3 +18,5 @@ print(word_new)
 var = "String"
 print(var[0:3])
 
+name = input()       # command to accept user input from the console
+print("Your name is:", name)
