@@ -20,3 +20,6 @@ print(var[0:3])
 
 name = input()       # command to accept user input from the console
 print("Your name is:", name)
+
+num = int(input())
+print(num)
