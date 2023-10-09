@@ -32,3 +32,6 @@ diff = a - b
 
 print("Sum is: ", sum)
 print("Difference is: ", diff)
+
+x = "Chef"
+print("Hello " + x)
