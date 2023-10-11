@@ -39,7 +39,13 @@ print("Hello " + x)
 age = 25
 vage = 18
 
+
 if age >= vage:
     print("Old enough to vote!")
 else:
     print("Not old enough to vote.")
+
+a = int(input())
+b = int(input())
+if a > b:
+    print ("Coding is fun!")
