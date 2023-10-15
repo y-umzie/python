@@ -86,3 +86,18 @@ elif r < k:
     print("Karan is heavier than Ram")
 else:
     print("Ram & Karan have the same weight!")
+
+
+a, c = map(int, input().split())      
+if a >=c:
+    print("Bravo!")
+else:
+    print("Try again")
+
+
+a, c = map(int, input().split())     
+
+if a >=c:
+    print("Bravo!")
+else:
+    print("Try again")
