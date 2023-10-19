@@ -112,3 +112,8 @@ print(num[2])
 months = ["Jan", "Feb", "Dec", "Apr"]
 months[2] = "Mar"
 print(months)
+
+# Update the code below this line
+str = ["Monday", "Tuesday", "Wednesday", "Thursday"]
+print(str[2])
+print(str[3])
