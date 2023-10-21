@@ -119,6 +119,15 @@ print(str[2])
 print(str[3])
 
 
+
 //to find the number of characters in a string
 nukk = [10,20,30,40,50,60]
 print(len(nukk))
+
+
+# print the 2nd last element from the following list. Update the '_' in the code below
+
+list = ["lock","key","barrier","sign","door"]
+print(list[ -2 ])
+//another way can be this too
+print(list[3])
