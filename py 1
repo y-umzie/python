@@ -131,3 +131,9 @@ list = ["lock","key","barrier","sign","door"]
 print(list[ -2 ])
 //another way can be this too
 print(list[3])
+
+//to print the one ahead, simply use that number since the last number is not printed
+
+months = ["January", "February", "March", "April", "May", "June", "July"]
+print(months[0:6]) 
+print(months[1:5])
