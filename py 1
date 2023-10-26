@@ -152,3 +152,17 @@ a = 0
 while a < num:
      print(a)
      a = a + 1
+
+//output?? print numbers from 1 to 3
+a = 4
+b = 1
+while (a != b):
+   print(b)
+   b = b + 1
+
+//output?? print numbers from 4 to infinity
+a = 1
+b = 4
+while (a != b):
+   print(b)
+   b = b + 1
