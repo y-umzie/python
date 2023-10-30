@@ -182,3 +182,8 @@ for _ in range(3):
     A, B = map(int, input().split())
     result = calculate(A, B)
     print (result + result**2 + result**3)
+
+def function_name(parameters):
+    # Function body (code block)
+    # ...
+    return result  # Optional return statement
