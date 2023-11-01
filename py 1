@@ -206,3 +206,10 @@ def greet(name):
 
 name = "Alice"
 greet(name)
+
+
+n = 28
+if n%2==0:   #missing ":" after if condition
+  print("Even")
+else :
+    print("Odd")
