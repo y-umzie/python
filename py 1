@@ -213,3 +213,5 @@ if n%2==0:   #missing ":" after if condition
   print("Even")
 else :
     print("Odd")
+
+//the stupid coder lost 2 days of her streak...ugh...ugh...
