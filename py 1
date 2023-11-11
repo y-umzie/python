@@ -223,3 +223,9 @@ if b==0:
     print("infinity")
 else:
     print(a/b)
+
+#make the indexing from one based to zero based
+s = input()  # input string
+
+print(s[0] + s[3] + s[5])
+//to print 1,4,6 element of the string
