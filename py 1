@@ -299,3 +299,13 @@ for i in range(t):
     C = input()
     #output the 2 integers and 1 string on a single line for each test case
     print(A, B, C)
+
+# Solution as follows
+
+t = int(input())        
+for i in range(t):      
+    S = input()   
+    #create a variable X which stores the value of string S concatenated with itself
+    X = S + S           
+    #output the variable X
+    print(X)            
